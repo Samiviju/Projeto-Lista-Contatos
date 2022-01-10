@@ -1,0 +1,6 @@
+AspNet MVC= 
+ Controllers = é a camada de controle, responsável por ligar o model e a view, fazendo com que os models possam ser repassados para as views e vice-versa.
+ Model = responsável pelo acesso e manupulação dos daos na sua aplicação.
+ View = é responsável pela interface que será aprensentada, mostrando as informações do model para o usuário.
+ 
+ razor = O razor permite que você escreva uma mistura de código HTML e do lado do servidor usando c#.
