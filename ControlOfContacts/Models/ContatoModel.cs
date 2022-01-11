@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace ControlOfContacts.Models
+﻿namespace ControlOfContacts.Models
 {
     public class ContatoModel
     {
@@ -11,6 +6,5 @@ namespace ControlOfContacts.Models
         public string Nome { get; set; }
         public string Email { get; set; }
         public string Celular { get; set; }
-
     }
 }
